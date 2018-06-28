@@ -1,0 +1,110 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bcf1a1f20748ef6e3fe27ac9a4de00d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\04df8fa98405da72f859c6019de72eb5\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\c704b12e783a3853bcfd17f6a06f6f7a\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e69e8b56cc0dc690903bc249151eea8c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\62d0af81e0a190e190c33880ddc482e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3d263d91937d70105d7570d0f513142f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0b2a5ba029fe61f27d10404b567c5317\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a1f5b1187ee0ee969d412bd1578dcf72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\eed235401156706a3f0afe4dccbe8dda\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2228bc26200b9b76dbc0fa490ec0aa44\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\71bdeef619f8668c841f25cffae792a2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a9b85edf19454bcc9d8c0ea9cf6d1c3d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fa454d6299b20279a3c4d2688b94696e\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml
+		INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml
+		ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml
+		ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:6:22-64
+application
+ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\04df8fa98405da72f859c6019de72eb5\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\04df8fa98405da72f859c6019de72eb5\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.ceolabs.myapplication.MainActivity
+ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml
+INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bcf1a1f20748ef6e3fe27ac9a4de00d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\bcf1a1f20748ef6e3fe27ac9a4de00d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\04df8fa98405da72f859c6019de72eb5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\04df8fa98405da72f859c6019de72eb5\AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\c704b12e783a3853bcfd17f6a06f6f7a\AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.6.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\butterknife-8.6.0.aar\c704b12e783a3853bcfd17f6a06f6f7a\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e69e8b56cc0dc690903bc249151eea8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\e69e8b56cc0dc690903bc249151eea8c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\62d0af81e0a190e190c33880ddc482e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\62d0af81e0a190e190c33880ddc482e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3d263d91937d70105d7570d0f513142f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3d263d91937d70105d7570d0f513142f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0b2a5ba029fe61f27d10404b567c5317\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\0b2a5ba029fe61f27d10404b567c5317\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a1f5b1187ee0ee969d412bd1578dcf72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\a1f5b1187ee0ee969d412bd1578dcf72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\eed235401156706a3f0afe4dccbe8dda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\eed235401156706a3f0afe4dccbe8dda\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2228bc26200b9b76dbc0fa490ec0aa44\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\2228bc26200b9b76dbc0fa490ec0aa44\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\71bdeef619f8668c841f25cffae792a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\71bdeef619f8668c841f25cffae792a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a9b85edf19454bcc9d8c0ea9cf6d1c3d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a9b85edf19454bcc9d8c0ea9cf6d1c3d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fa454d6299b20279a3c4d2688b94696e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator_\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fa454d6299b20279a3c4d2688b94696e\AndroidManifest.xml:20:5-44
+INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml
+INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml
+		ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml
+		INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml
+		ADDED from E:\RPH\belajar\app\src\main\AndroidManifest.xml
+		INJECTED from E:\RPH\belajar\app\src\main\AndroidManifest.xml

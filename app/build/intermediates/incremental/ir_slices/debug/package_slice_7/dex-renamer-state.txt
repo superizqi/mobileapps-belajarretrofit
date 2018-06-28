@@ -1,0 +1,4 @@
+#Thu Jun 28 17:48:29 ICT 2018
+base.0=E\:\\RPH\\belajar\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
